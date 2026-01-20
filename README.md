@@ -20,8 +20,7 @@ This project demonstrates the implementation of version control practices for ma
 - Gender: Customer gender
 - Tenure: Number of months as a customer
 - MonthlyCharges: Monthly subscription cost
-- TotalCharges: Total amount charged
-- Churn: Target variable (Yes/No)
+dhaaa
 
 
 
