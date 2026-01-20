@@ -23,7 +23,8 @@ This project demonstrates the implementation of version control practices for ma
 - TotalCharges: Total amount charged
 - Churn: Target variable (Yes/No)
 
-**Size**: 1000 records, 7 columns
+
+
 
 **Use Case**: Binary classification to predict customer churn
 
